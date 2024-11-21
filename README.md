@@ -2,7 +2,7 @@
 
 Creates a decision tree classifier model to train on a given dataset. Includes methods for training the tree, making predictions, splitting criteria and to determine the accuracy of the trained model on the training set.
 
-ecisionTreeClassifier Class:
+DecisionTreeClassifier Class:
 
 The code defines a DecisionTreeClassifier class to encapsulate the decision tree model.
 The constructor (__init__) takes parameters such as max_depth (maximum depth of the tree) and min_samples_split (minimum samples required to split a node).
